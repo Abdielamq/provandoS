@@ -1,0 +1,9 @@
+i.icon-magnifier {
+    color: #fff !important;
+}
+
+#input_search{
+    background-color: #b34c4c !important;
+    border: 2px solid rgb(120, 9, 9);
+    border-radius: 6px;
+}

@@ -1,0 +1,48 @@
+[
+    {
+        "titulo":"tacos",
+        "slug":"tacos",
+        "_id": "1000"
+    },
+    {
+        "titulo":"zapatos de vestir",
+        "slug":"zapatos de vestir",
+        "_id": "1001"
+    },
+    {
+        "titulo":"botines",
+        "slug":"botines",
+        "_id": "1004"
+    },
+    {
+        "titulo":"botas",
+        "slug":"botas",
+        "_id": "1005"
+    },
+    {
+        "titulo":"pantuflas",
+        "slug":"pantuflas",
+        "_id": "1002"
+    },
+    {
+        "titulo":"sandalias",
+        "slug":"sandalias",
+        "_id": "1006"
+    },
+    {
+        "titulo":"Zapatillas Outdoor",
+        "slug":"Zapatillas Outdoor",
+        "_id": "1007"
+    },
+    {
+        "titulo":"zapatillas deportivas",
+        "slug":"zapatillas deportivas",
+        "_id": "1003"
+    },
+    {
+        "titulo":"zapatillas urbanas",
+        "slug":"zapatillas urbanas",
+        "_id": "1008"
+    }
+    
+]
